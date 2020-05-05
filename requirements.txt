@@ -1,0 +1,7 @@
+pyserial
+adafruit-circuitpython-ssd1306
+nrfutil==5.0.0
+pyserial
+gpiozero
+requests
+pillow
